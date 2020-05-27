@@ -1,6 +1,6 @@
 @title[what]
 
-How many times you were on this situation?
+How many times you were in this situation?
 
 @css[text-blue fragment](Your Partner:) @css[fragment](Can you throw the trash?)
 
@@ -23,18 +23,17 @@ Note:
 You might just forget
 
 
-![trash can](https://i.pinimg.com/474x/a9/5b/6f/a95b6fbbe2b0b97e9e3294b0c812ed0d--washington-dc-pictures-of.jpg)
+@img[fragment](https://i.pinimg.com/474x/a9/5b/6f/a95b6fbbe2b0b97e9e3294b0c812ed0d--washington-dc-pictures-of.jpg)
 
 Note:
 
 - You know this is even worse that the previous case... Your partner had to do something that you said you would do
 
-
-![clean trash can](http://www.notrashcan.com/wp-content/uploads/clean_inner_can.jpg)
-
 ---
 
-Or you do it, but too late
+Or even worse... you do it
+
+@img[fragment](http://www.notrashcan.com/wp-content/uploads/clean_inner_can.jpg)
 
 ---
 
