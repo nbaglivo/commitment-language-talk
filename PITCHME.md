@@ -1,5 +1,3 @@
----
-
 @title[what]
 
 This talk is about communication and setting expectations
@@ -8,8 +6,6 @@ Note:
 
 - So this talk is about communication and setting expectations.
 - And I'd like to start with an example
-
-@css[text-blue fragment](Your Partner:) @css[fragment](Can you throw the trash?)
 
 ---
 
