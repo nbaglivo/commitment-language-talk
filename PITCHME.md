@@ -8,7 +8,9 @@ How many times you were in this situation?
 
 You wanted to say yes, but you were in the middle of something important
 
-@img[fragment](./fifa.jpeg)
+---
+
+---?image=fifa.jpeg&size=50% 100%
 
 ---
 
