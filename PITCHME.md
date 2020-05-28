@@ -15,7 +15,7 @@ Note:
 
 @title[what]
 
-How many times you were in the situation when your partner says:
+How many times were you in the situation where your partner said:
 
 @css[fragment](Can you take the trash out?)
 
