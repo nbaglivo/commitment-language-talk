@@ -10,7 +10,7 @@ You wanted to say yes, but you were in the middle of something important
 
 ---
 
-![fifa](fifa.jpeg)
+![fifa](fifa.jpg)
 
 ---
 
