@@ -8,7 +8,7 @@ How many times you were in this situation?
 
 You wanted to say yes, but you were in the middle of something important
 
-@img[fragment](assets/img/pic.png)
+@img[fragment](./fifa.jpeg)
 
 ---
 
@@ -48,7 +48,7 @@ Your partner got disappointed and possibly stressed.
 
 Your partner had to do extra work which might have screwed up her entire schedule.
 
-@css[fragment](<DIRTY TOILET PLACEHOLDER>)
+@css[fragment](DIRTY TOILET PLACEHOLDER)
 
 Note:
 
@@ -95,7 +95,7 @@ Communicate **by** when you are going to do it.
 Note:
 
 - Again, be thorough about this, don't say things because
-- This also sets the expectations and gives the other person the oportunity of analizing other options.
+- This also sets the expectations and gives the other person the opportunity of analizing other options.
 In the example of the trash your partner could decide to take the trash out by themselves for example.
 
 ---
@@ -110,5 +110,17 @@ Note:
 
 - and of course, you said you'd do it so do it.
 - and if for some reason you can't raise a red flag.
+
+---
+
+Commitment language
+
+
+@css[fragment](I will do ... by ...)
+
+Note:
+
+- There's this thing called Commitment language
+- It consist on saying things in this form
 
 ---
