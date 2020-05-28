@@ -10,7 +10,7 @@ You wanted to say yes, but you were in the middle of something important
 
 ---
 
----?image=fifa.jpeg&size=50% 100%
+![fifa](fifa.jpeg)
 
 ---
 
